@@ -1,0 +1,91 @@
+body{
+	background-color:#FCEBB6;
+	background-image:url("background.gif");
+}
+h1{
+	line-height:200%;
+	text-align:left;
+	background-color:#D2B48C;
+    padding: 0.5em;
+	margin:0px;
+	text-indent: 1em;
+}
+nav{
+	font-weight: bold;
+	width:20%;
+	float:left;
+	height:1000px;
+	background-color:#231815;
+}
+hr{
+	display: block;
+    margin-top: 0em;
+    margin-bottom: 0em;
+	border-color:#231815; 
+    border-style: solid;
+    border-width: 10px;
+}
+#months{
+	text-indent: 2em;
+	background-color:#D2B48C;
+	font-weight: bold;
+	
+}
+#navbar a{
+	color: #FCEBB6;
+	text-decoration: none;
+}
+#navbar a:hover{
+	color: #EB8500;
+}
+#navbar a:visited{
+	color: white;
+}
+.tdstyle{
+	width:20%;
+	text-align: center;
+	color: #FCEBB6;
+}
+
+footer{
+	text-align:center;
+	background-color:#D2B48C;
+	font-size:.60em;
+	font-weight:italic;
+	clear:both;
+	border: 1px solid gray;
+    padding: 0px;
+}
+#content{
+	float: right;
+	width:80%;
+}
+#wrapper{
+	width:80%;
+	margin:0 auto;
+	background-color:#FCEBB6;
+	color:#221811;
+	font-family:Verdana;
+    padding: 0px;
+	box-shadow: 2px 2px 5px;
+}
+
+#intro{
+	font-size:1.5em;
+	font-weight: bold;
+}
+#feature{
+	font-weight: bold;
+}
+.margin{
+	margin-left:30px;
+}
+.smallicon{
+	height:40px;
+	width:40px;
+	text-align:center;
+	margin-left:2px;
+}
+.indent{
+	margin-left:22%;
+}

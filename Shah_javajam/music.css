@@ -1,0 +1,21 @@
+
+.topAlbums
+{
+	width: 50%;
+	height: 400px;
+	float: left;
+	overflow: auto;
+}
+.similarArtist
+{
+	width: 50%;
+	height: 400px;
+	overflow: auto;
+	position: relative;
+}
+.artistStyle
+{
+	height: 400px;
+	font-family: "Arial";	
+	overflow: auto;
+}
